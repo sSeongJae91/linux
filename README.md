@@ -1,1 +1,2 @@
 # linux
+- CentOS 7
